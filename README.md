@@ -1,7 +1,9 @@
 # Automação de Cadastro de Produtos
 
-Este projeto foi feito a partir de um treinamento, e o intuito dele é mostrar a aprendizagem da automação do processo. 
-O link em questão, https://dlp.hashtagtreinamentos.com/python/intensivao/login, é de um site dedicado para testar o funcionamento do código.
+Este projeto foi feito a partir de um treinamento, e o intuito dele é mostrar a aprendizagem da automação do processo de cadastrar uma base de cadastros em um site. 
+O link do site em questão é:
+https://dlp.hashtagtreinamentos.com/python/intensivao/login
+Esse é um site dedicado para testar o funcionamento do código.
 
 O mesmo utiliza a biblioteca `pyautogui` para interagir com a interface gráfica do usuário e a biblioteca `pandas` para manipulação de dados.
 
